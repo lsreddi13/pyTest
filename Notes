@@ -1,0 +1,21 @@
+How to create class in python ?
+what is __init__.py file ?
+what is module main and module class while create ?
+
+how to import class from another class
+how to invoke methods from another class
+
+do we have oops concepts like java ?
+
+if we have tuple ('apple', 'banana', 'cherry') and can we change the value kiwi instead of banana?
+sol : we can convert tuple to list and change the value by index. because You cannot add items to a tuple:
+
+
+Important note : 
+Set is a collection which is unordered and unindexed. No duplicate members.
+
+List is a collection which is ordered and changeable. Allows duplicate members.
+
+Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+
+Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
